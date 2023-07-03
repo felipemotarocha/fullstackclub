@@ -1,0 +1,16 @@
+{
+  "name": "fsc-modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "start": "node index.js",
+    "showFiles": "ls"
+  },
+  "author": "Felipe Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
